@@ -30,7 +30,12 @@
 
 
 [array_push()](./js/array_push.js)
-
 ```bash
 node ./js/array_push.js
 ```
+
+[findIndex()](./js/findIndex.js)
+```bash
+node ./js/findIndex.js
+```
+
