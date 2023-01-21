@@ -24,7 +24,11 @@
 | findIndex()                         | gibt den Index des ersten Elements des Arrays zurück, das die angegebene Bedingung erfüllt                                                                                                                                                                                    | `let array = [1, 2, 3, 4, 5]; console.log(array.findIndex(x => x > 3)); // 3`                                                                                                           |
 
 
-## Examples
+
+
+## Beispiele
+
+
 [array_push()](./js/array_push.js)
 
 ```bash
